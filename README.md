@@ -266,3 +266,7 @@ All models available for download through this document are licensed under the
 <td align="center"><a href="https://dl.fbaipublicfiles.com/detectron2/COCO-Detection/fast_rcnn_R_50_FPN_1x/137635226/model_final_e5f7ce.pkl">model</a>&nbsp;|&nbsp;<a href="https://dl.fbaipublicfiles.com/detectron2/COCO-Detection/fast_rcnn_R_50_FPN_1x/137635226/metrics.json">metrics</a></td>
 </tr>
 </tbody></table>
+
+# Predict 
+
+Run file predict.py to Inference from the Dataset using the trained model and save image with bouding boxes.
